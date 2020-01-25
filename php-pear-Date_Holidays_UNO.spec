@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Date_Holidays_UNO
 Summary:	%{_pearname} - Driver based class to calculate holidays in UNO
